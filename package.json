@@ -1,0 +1,14 @@
+{
+  "name": "optimus",
+  "version": "0.0.1",
+  "description": "Parse comment and do autotest",
+  "main": "main.js",
+  "author": "mandarin6b0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "lodash": "^3.10.1",
+    "qs": "^5.1.0",
+    "sync-request": "^2.0.1"
+  }
+}
